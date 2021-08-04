@@ -1,2 +1,5 @@
+Monkey helps crocodile to get food, by bringing him apples from the apple tree:
+:r
+
 Once upon a time their lived a monkey on a apple tree beside a river bank. one day crocodile was passing by river in  search of food. 
 
